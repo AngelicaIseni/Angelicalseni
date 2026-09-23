@@ -1,4 +1,4 @@
-### Hi, I'm Angelica 👋
+### Hi, I'm Angelica 
 
 PhD student in AI-driven optical sensing for agri-food @ University of Milan | Earth Observation & ML for environmental monitoring
 
